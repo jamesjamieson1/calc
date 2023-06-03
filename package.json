@@ -1,0 +1,22 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesjamieson1/calc.git"
+  },
+  "author": "James Jamieson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesjamieson1/calc/issues"
+  },
+  "homepage": "https://github.com/jamesjamieson1/calc#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
